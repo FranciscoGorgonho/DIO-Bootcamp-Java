@@ -5,19 +5,19 @@ Bem-vindo ao repositório dos desafios de código do Santander Bootcamp 2023 - J
 ## Desafios em Java Básico
 
 1. **Desafio Java: Equilibrando o Saldo**
-   - Arquivo: [001.js](https://github.com/FranciscoGorgonho/DIO-Bootcamp-Java/blob/main/Desafios%20de%20c%C3%B3digo%20-%20Santander%20Bootcamp%202023/Java-Basico/src/Desafio01.java)
+   - Arquivo: [Desafio01.java](https://github.com/FranciscoGorgonho/DIO-Bootcamp-Java/blob/main/Desafios%20de%20c%C3%B3digo%20-%20Santander%20Bootcamp%202023/Java-Basico/src/Desafio01.java)
 
 2. **Desafio Java: Organizando Seus Ativos**
-   - Arquivo: [002.js](https://github.com/FranciscoGorgonho/DIO-Bootcamp-Java/blob/main/Desafios%20de%20c%C3%B3digo%20-%20Santander%20Bootcamp%202023/Java-Basico/src/Desafio02.java)
+   - Arquivo: [Desafio02.java](https://github.com/FranciscoGorgonho/DIO-Bootcamp-Java/blob/main/Desafios%20de%20c%C3%B3digo%20-%20Santander%20Bootcamp%202023/Java-Basico/src/Desafio02.java)
 
 3. **Desafio Java: Condicionamento Rico**
-   - Arquivo: [003.js](https://github.com/FranciscoGorgonho/DIO-Bootcamp-Java/blob/main/Desafios%20de%20c%C3%B3digo%20-%20Santander%20Bootcamp%202023/Java-Basico/src/Desafio03.java)
+   - Arquivo: [Desafio03.java](https://github.com/FranciscoGorgonho/DIO-Bootcamp-Java/blob/main/Desafios%20de%20c%C3%B3digo%20-%20Santander%20Bootcamp%202023/Java-Basico/src/Desafio03.java)
 
 4. **Desafio Java: Juros Compostos**
-   - Arquivo: [004.js](https://github.com/FranciscoGorgonho/DIO-Bootcamp-Java/blob/main/Desafios%20de%20c%C3%B3digo%20-%20Santander%20Bootcamp%202023/Java-Basico/src/Desafio04.java)
+   - Arquivo: [Desafio04.java](https://github.com/FranciscoGorgonho/DIO-Bootcamp-Java/blob/main/Desafios%20de%20c%C3%B3digo%20-%20Santander%20Bootcamp%202023/Java-Basico/src/Desafio04.java)
 
 5. **Desafio Java: O Grande Depósito**
-   - Arquivo: [005.js](https://github.com/FranciscoGorgonho/DIO-Bootcamp-Java/blob/main/Desafios%20de%20c%C3%B3digo%20-%20Santander%20Bootcamp%202023/Java-Basico/src/Desafio05.java)
+   - Arquivo: [Desafio05.java](https://github.com/FranciscoGorgonho/DIO-Bootcamp-Java/blob/main/Desafios%20de%20c%C3%B3digo%20-%20Santander%20Bootcamp%202023/Java-Basico/src/Desafio05.java)
 
 ## Desafios em Java Intermediário
 
